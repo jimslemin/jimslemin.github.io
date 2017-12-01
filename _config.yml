@@ -1,7 +1,7 @@
-remote_theme: "mmistakes/minimal-mistakes"
+theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
-minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-name                     : "Jim Slemin Test"
-description              : "A small obscure corner of the net."
-url                      : "https://jimslemin.github.io"
+#minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#name                     : "Jim Slemin Test"
+#description              : "A small obscure corner of the net."
+#url                      : "https://jimslemin.github.io"
